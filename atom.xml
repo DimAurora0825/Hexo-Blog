@@ -6,7 +6,7 @@
   <link href="https://dimaurora.com/atom.xml" rel="self"/>
   
   <link href="https://dimaurora.com/"/>
-  <updated>2024-03-16T22:34:11.501Z</updated>
+  <updated>2024-03-16T22:51:12.418Z</updated>
   <id>https://dimaurora.com/</id>
   
   <author>
@@ -21,15 +21,14 @@
     <link href="https://dimaurora.com/2024/03/17/Test/"/>
     <id>https://dimaurora.com/2024/03/17/Test/</id>
     <published>2024-03-16T16:29:15.027Z</published>
-    <updated>2024-03-16T22:34:11.501Z</updated>
+    <updated>2024-03-16T22:51:12.418Z</updated>
     
-    <content type="html"><![CDATA[<p>测试</p><p>Test</p>]]></content>
+    <content type="html"><![CDATA[<p>技术测试已基本完成，预计将于近期开始正常更新。</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;测试&lt;/p&gt;
-&lt;p&gt;Test&lt;/p&gt;
+    <summary type="html">&lt;p&gt;技术测试已基本完成，预计将于近期开始正常更新。&lt;/p&gt;
 </summary>
       
     
