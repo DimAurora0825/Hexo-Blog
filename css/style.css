@@ -2499,8 +2499,8 @@ pre .javascript .function {
   color: #c9c;
 }
 .back-to-top-wrapper {
-  width: 60px;
-  height: 60px;
+  width: 1px;
+  height: 1px;
   position: absolute;
   right: 0;
   top: 0;
